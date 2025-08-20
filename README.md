@@ -1,4 +1,4 @@
-# Kauan Luna <img src="https://i.gifer.com/4Sno.gif" width="100px">
+# Kauan Luna <img src="https://i.gifer.com/4Sno.gif" width="300px">
 
 Eu sou <strong>Kauan Luna</strong>, <strong>estou cursando: Análise e desenvolvimento de sistemas</strong> 👨🏻‍💻 
 
