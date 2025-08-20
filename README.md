@@ -1,4 +1,4 @@
-# [Seu nome] <img src="https://imagens.net.br/wp-content/uploads/2024/07/gifs-animados-para-celebrar-o-dia-dos-pais-com-amor-e-alegria-0.gif" width="60px">
+# [Seu nome] <img src="https://imagens.net.br/wp-content/uploads/2024/07/gifs-animados-para-celebrar-o-dia-dos-pais-com-amor-e-alegria-0.gif" width="100px">
 
 Eu sou <strong>Seu Nome</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
 
