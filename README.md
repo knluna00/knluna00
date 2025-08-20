@@ -1,6 +1,6 @@
 # Kauan Luna <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgibtejrrKoWgxtYxPP3Sp-SD3_to1C9lp9VK4G6_Fn0kgfMVO4xYBkk8V05N6DTvH_GoTlXOBxHqSF9xaNMh-0yDU0lii6q6kUijmgjxAXJebwrA7nGxaRWKjcbzpX75i9bym2sxTW5Zc/s1600/Spider-Man+Gif+2.gif" width="100px">
 
-Eu sou <strong>Seu Nome</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
+Eu sou <strong>Kauan Luna</strong>, <strong>estou cursando: Análise e desenvolvimento de sistemas</strong> 👨🏻‍💻 
 
 - 🚀 Atualmente estou aprendendo: <strong>Coloque as linguagens que você atualmente está aprendendo</strong> 
 - 💬 Pergunte-me sobre: <strong>Seus hobbies</strong>
