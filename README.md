@@ -1,4 +1,4 @@
-# [Seu nome] <img src="[https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width=](https://usagif.com/wp-content/uploads/2021/03/hungry-emoji-m.gif)"30px">
+# [Seu nome] <img src="https://imagens.net.br/wp-content/uploads/2024/07/gifs-animados-para-celebrar-o-dia-dos-pais-com-amor-e-alegria-0.gif"30px">
 
 Eu sou <strong>Seu Nome</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
 
