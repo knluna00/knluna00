@@ -1,4 +1,4 @@
-# Kauan Luna <img src="https://i.gifer.com/4Sno.gif" width="400px">
+# Kauan Luna <img src="https://www.gifsanimes.com/data/media/1555/spider-man-image-animee-0008.gif" width="100px">
 
 Eu sou <strong>Kauan Luna</strong>, <strong>estou cursando: Análise e desenvolvimento de sistemas</strong> 👨🏻‍💻 
 
