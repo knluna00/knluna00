@@ -2,7 +2,6 @@
 
 Eu sou <strong>Kauan Luna</strong>, <strong>estou cursando: Análise e desenvolvimento de sistemas</strong> 👨🏻‍💻 
 
-- 📣 Nós podemos falar em: <strong>Português e Inglês</strong>
 
 <div align="center">
 
